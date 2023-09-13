@@ -1,4 +1,4 @@
-# Firefox NixOS Packages Extension/Add-on
+# Firefox NixOS Options Search Extension/Add-on
 Adds NixOS options search engine to Firefox omnibox.
 
 In the address bar, just type `@no` then at least a single space character followed by the search query.
