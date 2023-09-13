@@ -1,8 +1,13 @@
 # Firefox NixOS Packages Extension/Add-on
-Adds NixOS packages search engine to Firefox omnibox.
+Adds NixOS options search engine to Firefox omnibox.
 
-In the address bar, just type `@nixpkgs` then at least a single space character followed by the search query.
+In the address bar, just type `@no` then at least a single space character followed by the search query.
 
 ## Screenshot
 
 ![@nixpkgs keyword](./screenshot.png)
+
+
+## Credits
+
+Thanks to @pcf26536: https://github.com/pcf26536/firefox-nixpkgs-extension

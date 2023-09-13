@@ -3,17 +3,17 @@
     "name": "NixOS Packages Search Engine",
     "description": "Adds NixOS packages search engine",
     "version": "1.0",
-    "author": "Wainaina Gichuhi",
-    "homepage_url": "https://github.com/pcf26536/firefox-nixpkgs-extension",
+    "author": "googijh",
+    "homepage_url": "https://github.com/googijh/firefox-nixos-options-extension",
     "developer": {
-      "name": "Wainaina Gichuhi",
-      "url": "https://github.com/pcf26536"
+      "name": "googijh",
+      "url": "https://github.com/googijh"
     },
     "chrome_settings_overrides": {
       "search_provider": {
-        "name": "NixOS Packages",
-        "search_url":"https://search.nixos.org/packages?query={searchTerms}",
-        "keyword": "@nixpkgs",
+        "name": "NixOS Options",
+        "search_url":"https://search.nixos.org/options?query={searchTerms}",
+        "keyword": "@no",
         "favicon_url": "https://nixos.org/favicon.ico",
         "is_default": false,
         "encoding": "UTF-8"
