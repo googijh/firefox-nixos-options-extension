@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "NixOS Packages Search Engine",
-    "description": "Adds NixOS packages search engine",
+    "name": "NixOS Options Search Engine",
+    "description": "Adds NixOS options search engine",
     "version": "1.0",
     "author": "googijh",
     "homepage_url": "https://github.com/googijh/firefox-nixos-options-extension",
